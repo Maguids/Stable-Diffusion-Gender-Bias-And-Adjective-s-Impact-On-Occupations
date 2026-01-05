@@ -1,0 +1,2 @@
+# Stable-Diffusion-Gender-Bias-And-Adjective-s-Impact-On-Occupations
+This project was developed for the "Artificial Intelligence and Society" course and consists on generating images related to occupations and measuring the gender bias and how adjectives such as successful and frindle affect the outcome. First Semester of the First Year of the Masters's Degree in Artificial Intelligence at FEUP/FCUP.
