@@ -99,6 +99,8 @@ IA-IAS-Project
 │   ├── image_info.csv  # CSV generated from get_csv_with_image_info.py (has the first 100 images) 
 │   ├── image_info_extra.csv  # CSV generated from get_csv_with_image_info.py (has "extra" 20 images) 
 ├── Dataset_Creation_and_Analysis.ipynb  # Used to make the labelling process and to analyse the results
+├── Report_IAS__IA.pd  # The report of the project
+├── AIS_Individual_Assignment  # The project's assignment
 ```
 
 This course is part of the **<u>first semester</u>** of the **<u>first year</u>** of the **<u>Master's Degree in Artificial Intelligence</u>** at **<u>FEUP</u>** and **<u>FCUP</u>** in the academic year 2025/2026. You can find more information about this course at the following link:
