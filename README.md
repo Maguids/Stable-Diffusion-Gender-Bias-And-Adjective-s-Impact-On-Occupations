@@ -101,12 +101,10 @@ IA-IAS-Project
 ├── Dataset_Creation_and_Analysis.ipynb  # Used to make the labelling process and to analyse the results
 ```
 
-## Link to the course: 
-
 This course is part of the **<u>first semester</u>** of the **<u>first year</u>** of the **<u>Master's Degree in Artificial Intelligence</u>** at **<u>FEUP</u>** and **<u>FCUP</u>** in the academic year 2025/2026. You can find more information about this course at the following link:
 
 <div style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
-  <a href="https://sigarra.up.pt/fcup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=559505>
+  <a href="https://sigarra.up.pt/fcup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=559505">
     <img alt="Link to Course" src="https://img.shields.io/badge/Link_to_Course-0077B5?style=for-the-badge&logo=logoColor=white" />
   </a>
 
