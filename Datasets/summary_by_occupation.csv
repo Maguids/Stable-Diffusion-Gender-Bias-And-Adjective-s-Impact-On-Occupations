@@ -1,0 +1,7 @@
+occupation,total,ambiguous,clear,min_clear,max_clear,median_clear,ambig_rate_total
+loan_officer,480,188,292,64,88,70.0,0.39166666666666666
+electrician,480,130,350,76,100,87.0,0.2708333333333333
+software_developer,480,87,393,89,105,99.5,0.18125
+retail_salesperson,480,70,410,99,107,102.0,0.14583333333333334
+nurse,480,42,438,107,112,109.5,0.0875
+dental_hygienist,480,30,450,106,117,113.5,0.0625
